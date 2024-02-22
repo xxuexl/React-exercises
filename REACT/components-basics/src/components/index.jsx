@@ -5,4 +5,3 @@ import Paragraph from "./Paragraph/Paragraph";
 
 export { Title, SubTitle, Image, Paragraph };
 
-//In progress
