@@ -1,5 +1,4 @@
-/* Componente Image ⇒ Crea un componente que retorne un <image> y 
-en su interior podéis seleccionar cualquier imagen de ReactJS.*/
+import "./Image.css"
 
 const Image = (props) => {
     const { image_url } = props;
